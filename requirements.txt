@@ -1,0 +1,15 @@
+ultralytics
+opencv-python
+requests
+numpy
+
+-->Phone (for option 2)
+
+*) Install IP Webcam (Android), open it and tap "Start server". The URL looks like http://192.168.1.60:8080/video.
+*) Phone and PC must be on the same WiFi.
+*) On iPhone, use an app that gives an MJPEG or RTSP URL and paste that URL.
+
+-->Limitations:
+*) YOLO can only recognise the 80 COCO classes. A photo of something outside them, like a specific key or a custom toy, gets rejected with a message. For those you would need to train a custom YOLO model on your own photos.
+*) Colour matching is simple. Two objects of the same class and similar colour can both match. Raise HIST_THRESH to be stricter.
+*) A clear target photo with the object large, centred, and in similar lighting works best.
