@@ -175,6 +175,10 @@ The pre-trained model knows only the **80 COCO classes** (person, bottle, cup, c
 **Tips for a good target photo:** one main object, large and centred, good light, plain background. For best colour match, take the photo with the same camera you will use for detection.
 
 ---
+## Image
+
+![alt text](image.png)
+
 
 ## Distance and size estimate
 
@@ -204,6 +208,15 @@ Edit these values at the top of `main.py`:
 | `REAL_H` | table | Average real height (cm) of common objects |
 
 ---
+
+## Live window while searching for the target
+
+![Searching the target](image-1.png)
+
+## Live window after the target is detected: red box, WARNING banner, virtual LED, distance and width
+
+![Target detected](image-2.png)
+
 
 ## Troubleshooting
 
