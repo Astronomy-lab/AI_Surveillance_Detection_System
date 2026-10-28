@@ -80,6 +80,10 @@ You only need the PC for the **virtual** alarm. The parts below are for the ESP3
 | 5V | 5 V supply |
 
 ---
+## Circuit Diagram 
+
+<img width="686" height="344" alt="image" src="https://github.com/user-attachments/assets/8d1bebc2-3f86-4ae0-809b-1bc3af665517" />
+
 
 ## Installation
 
