@@ -177,7 +177,8 @@ The pre-trained model knows only the **80 COCO classes** (person, bottle, cup, c
 ---
 ## Image
 
-![alt text](image.png)
+<img width="764" height="417" alt="image" src="https://github.com/user-attachments/assets/55e75d27-51f1-42a2-b04f-8ac55e3b6040" />
+
 
 
 ## Distance and size estimate
@@ -211,11 +212,13 @@ Edit these values at the top of `main.py`:
 
 ## Live window while searching for the target
 
-![Searching the target](image-1.png)
+<img width="760" height="616" alt="image" src="https://github.com/user-attachments/assets/17d554d6-48d1-4875-b858-d1f6833764f8" />
+
 
 ## Live window after the target is detected: red box, WARNING banner, virtual LED, distance and width
 
-![Target detected](image-2.png)
+<img width="748" height="603" alt="image" src="https://github.com/user-attachments/assets/c6af5109-9cc1-4b0f-afbc-ce42795bbae8" />
+
 
 
 ## Troubleshooting
